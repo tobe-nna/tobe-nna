@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning programming 
 - 💞️ I’m looking to collaborate on coll stuffs
 - 📫 How to reach me tochukwuukpabi@gmail.com 
+- 🔍 Personal Site
 
 <!---
 tobe-nna/tobe-nna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
